@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "country_id": "COL", "latitude": 3.51266, "longitude": -72.59738, "brightness": 303.63, "scan": 1.0, "track": 1.0, "acq_date": "2023-10-07", "acq_time": 646, "satellite": "Aqua", "instrument": "MODIS", "confidence": 56, "version": "6.1NRT", "bright_t31": 290.57, "frp": 4.57, "daynight": "N" }, "geometry": { "type": "Point", "coordinates": [ -72.59738, 3.51266 ] } },
+{ "type": "Feature", "properties": { "country_id": "COL", "latitude": 4.60569, "longitude": -69.19091, "brightness": 316.69, "scan": 1.7, "track": 1.28, "acq_date": "2023-10-07", "acq_time": 1420, "satellite": "Terra", "instrument": "MODIS", "confidence": 58, "version": "6.1NRT", "bright_t31": 294.06, "frp": 14.98, "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ -69.19091, 4.60569 ] } },
+{ "type": "Feature", "properties": { "country_id": "COL", "latitude": 3.38802, "longitude": -75.302, "brightness": 326.92, "scan": 1.43, "track": 1.18, "acq_date": "2023-10-07", "acq_time": 1908, "satellite": "Aqua", "instrument": "MODIS", "confidence": 76, "version": "6.1NRT", "bright_t31": 301.3, "frp": 17.88, "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ -75.302, 3.38802 ] } },
+{ "type": "Feature", "properties": { "country_id": "COL", "latitude": 4.0641, "longitude": -72.11507, "brightness": 320.59, "scan": 2.58, "track": 1.54, "acq_date": "2023-10-07", "acq_time": 1908, "satellite": "Aqua", "instrument": "MODIS", "confidence": 72, "version": "6.1NRT", "bright_t31": 293.56, "frp": 41.34, "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ -72.11507, 4.0641 ] } },
+{ "type": "Feature", "properties": { "country_id": "COL", "latitude": 4.11067, "longitude": -72.33274, "brightness": 319.79, "scan": 2.49, "track": 1.52, "acq_date": "2023-10-07", "acq_time": 1908, "satellite": "Aqua", "instrument": "MODIS", "confidence": 69, "version": "6.1NRT", "bright_t31": 294.01, "frp": 33.44, "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ -72.33274, 4.11067 ] } }
+]
+}
